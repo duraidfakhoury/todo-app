@@ -68,7 +68,7 @@ class App extends Component {
           alignContent:'center',
           fontSize:'3rem',
           fontWeight:'bolder',
-        }}>TODO LIST</Row>
+        }}>TODOO-IST</Row>
       <hr/>
       <Row>
         <Col md = {{span : 5 , offset : 4 }}>
